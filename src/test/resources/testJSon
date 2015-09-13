@@ -1,0 +1,80 @@
+{
+  "entity-type": "documents",
+  "entries": [
+    {
+      "entity-type": "document",
+      "repository": "default",
+      "uid": "6df97d6a-ddfd-47a9-84f3-a2f390981f46",
+      "path": "/d48283b1-74e4-4411-85e5-e6901c8faba9/UserWorkspaces/10344/sample._1234567890123_.trashed/sample1/sample2/sample3/sample4/baniwyf.db",
+      "type": "File",
+      "state": "deleted",
+      "versionLabel": "1.0+",
+      "title": "baniwyf.db",
+      "lastModified": "2014-08-11T07:55:30.78Z",
+      "facets": [
+        "DisableExtraLog",
+        "OCRSTATUS",
+        "Downloadable",
+        "Commentable",
+        "VIRUSSCAN",
+        "Versionable",
+        "Publishable",
+        "DocumentsSizeStatistics",
+        "HasRelatedText"
+      ],
+      "changeToken": "1407743730787",
+      "contextParameters": {}
+    },
+    {
+      "entity-type": "document",
+      "repository": "default",
+      "uid": "0647d2bb-2eba-4a0f-a0b2-d320bbeb5ad2",
+      "path": "/d48283b1-74e4-4411-85e5-e6901c8faba9/UserWorkspaces/10344/sample._1234567890123_.trashed/High_FullColor1.pdf",
+      "type": "File",
+      "state": "deleted",
+      "versionLabel": "1.0+",
+      "title": "High_FullColor1.pdf",
+      "lastModified": "2014-08-11T07:55:05.03Z",
+      "facets": [
+        "DisableExtraLog",
+        "OCRSTATUS",
+        "Downloadable",
+        "Commentable",
+        "VIRUSSCAN",
+        "Versionable",
+        "Publishable",
+        "DocumentsSizeStatistics",
+        "HasRelatedText"
+      ],
+      "changeToken": "1407743705030",
+      "contextParameters": {}
+    },
+    {
+      "entity-type": "document",
+      "repository": "default",
+      "uid": "3cf1c334-f147-469e-8e5a-df8ab2294467",
+      "path": "/d48283b1-74e4-4411-85e5-e6901c8faba9/UserWorkspaces/10344/ds1._1429520986974_.trashed/ds2/ds3/jevos.db",
+      "type": "File",
+      "state": "deleted",
+      "versionLabel": "1.0+",
+      "title": "jevos.db",
+      "lastModified": "2015-04-20T09:10:21.81Z",
+      "facets": [
+        "DisableExtraLog",
+        "OCRSTATUS",
+        "Downloadable",
+        "Commentable",
+        "VIRUSSCAN",
+        "Versionable",
+        "Publishable",
+        "DocumentsSizeStatistics",
+        "HasRelatedText"
+      ],
+      "changeToken": "1429521021818",
+      "contextParameters": {}
+}
+
+    Error: Parse error on line 76:
+    ...ters": {}        }
+    ---------------------^
+    Expecting ',', ']', got 'EOF'
